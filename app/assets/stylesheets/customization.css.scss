@@ -1,0 +1,11 @@
+$body-bg: #1abc9c;
+$navbar-default-bg: #34495e;
+$navbar-default-link-color: #ecf0f1;
+$navbar-default-link-hover-color: #bdc3c7;
+
+.center {
+	text-align: center;
+}
+
+@import "bootstrap-sprockets";
+@import "bootstrap";
